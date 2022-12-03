@@ -3,6 +3,7 @@
 
 
 🌱Lenguajes de programacion que manejo: SQL, Python.
+
 Herramientas de BI: Power BI, Tableau, Alteryx, Uipath
 
 
